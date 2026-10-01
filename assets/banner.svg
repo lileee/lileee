@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Damien Li — Stay curious. Build with intention.</title>
+  <desc id="desc">A warm ivory landscape with jade mountains, a vermilion sun, and an open orbit. Technology, design, and enduring ideas.</desc>
+  <defs>
+    <clipPath id="frame"><rect width="1200" height="360" rx="20"/></clipPath>
+    <linearGradient id="jade" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#326B63"/><stop offset="1" stop-color="#183F3C"/></linearGradient>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="360" fill="#F4F1E9"/>
+    <path d="M800 0H1200V360H730Z" fill="#E9EDE4"/>
+    <g fill="none" stroke="#9AAEA2" stroke-width="1" opacity=".45">
+      <circle cx="1002" cy="158" r="133"/>
+      <ellipse cx="1002" cy="158" rx="189" ry="74" transform="rotate(-32 1002 158)"/>
+      <path d="M805 158H1198M1002 0V305" stroke-dasharray="3 9"/>
+    </g>
+    <circle cx="1062" cy="86" r="30" fill="#C56B4E"/>
+    <circle cx="888" cy="64" r="5" fill="#326B63"/>
+    <path d="M731 360L873 179L952 269L1051 151L1213 360Z" fill="#9DB5A5"/>
+    <path d="M793 360L925 246L990 299L1122 211L1250 360Z" fill="url(#jade)"/>
+    <path d="M914 360C972 311 1006 348 1070 294C1122 252 1178 271 1232 233" fill="none" stroke="#F4F1E9" stroke-width="2" opacity=".65"/>
+    <rect x="58" y="53" width="29" height="3" rx="1.5" fill="#C56B4E"/>
+    <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif">
+      <text x="103" y="60" font-size="13" letter-spacing="3" fill="#506B62">AN OPEN NOTEBOOK / 无限探索</text>
+      <text x="56" y="147" font-size="65" font-weight="650" letter-spacing="-2.5" fill="#203F39">Damien Li<tspan fill="#C56B4E">.</tspan></text>
+      <text x="59" y="195" font-size="25" fill="#326B63">Stay curious. Build with intention.</text>
+      <text x="59" y="233" font-size="18" letter-spacing="2" fill="#66756C">保持好奇 · 知行合一 · 向远而行</text>
+      <path d="M59 273H685" stroke="#CDD4C8"/>
+      <text x="59" y="310" font-size="13" letter-spacing="2.2" fill="#506B62">TECHNOLOGY × DESIGN × ENDURING IDEAS</text>
+      <text x="1138" y="329" text-anchor="end" font-size="12" letter-spacing="2" fill="#DDE7DE">山海之间</text>
+    </g>
+  </g>
+</svg>
